@@ -16,5 +16,5 @@ This project is a Flask-based web application that showcases car sales data. It 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/DAB111_project_Group_3.git
+   git clone https://github.com/Ak1sh-2/DAB111_project_Group_3.git
    cd DAB111_project_Group_3
