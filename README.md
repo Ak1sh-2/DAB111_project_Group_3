@@ -1,16 +1,20 @@
-# Car Sales Project
+# Car Sales Data Flask App
 
-## Purpose
-This project collects and displays car sales data using Flask and SQLite. The data is served via a simple web application.
+This project is a Flask-based web application that showcases car sales data. It includes an SQLite database and a website to display the data.
 
-## How It Works
-1. Data is stored in an SQLite database (`car_sales.db`).
-2. A Flask web app serves the data via three pages:
-   - Home Page: Add car data.
-   - About Page: Data source and variable definitions.
-   - Data Page: View stored data.
-   
-## How to Run the Project
-1. Install dependencies:
+## Features
+- Add and view car sales data
+- Explore data through an interactive website
+- About page explaining the dataset and variables
+
+## Structure
+- `data/` contains the dataset (if needed)
+- `database/` contains database setup and SQLite files
+- `website/` contains the Flask app, templates, and static files
+- `requirements.txt` lists required Python packages
+
+## Installation
+1. Clone the repository:
    ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/username/DAB111_project_Group_3.git
+   cd DAB111_project_Group_3
